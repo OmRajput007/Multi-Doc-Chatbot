@@ -1,3 +1,6 @@
+Understood. Here’s your message for `README.md`:
+
+````markdown
 # 📄 Multi-Doc Chatbot — AI-Powered Document Q&A
 
 ---
@@ -32,17 +35,16 @@ Built by **Om Rajput** — LLM Job-Ready Mastery Program, Day 4.
 
 ---
 
-## 🖥️ Screenshot Preview
+## 🖥️ Screenshots Preview
 
 📸 Screenshot one:
 
-![MultiDoc Screenshot 1](https://github.com/user-attachments/assets/b5aead7e-5f69-4b76-84ba-29f8ce6e9b81)
+![MultiDoc Screenshot 1](https://github.com/user-attachments/assets/2f2cc647-9c60-4afa-b64c-708a4f668c2c)
 
 
 📸 Screenshot two:
 
-![MultiDoc Screenshot 2](https://github.com/user-attachments/assets/0f16c447-dcfb-46b4-a7d0-9ffa25f36b4b)
-
+![MultiDoc Screenshot 2](https://github.com/user-attachments/assets/795e8f25-e72b-480e-b6a7-62632c6d4d34)
 
 ---
 
@@ -107,4 +109,5 @@ Built by **Om Rajput** — LLM Job-Ready Mastery Program, Day 4.
 ✅ Fully client-sellable.
 ✅ Portfolio-ready SaaS component.
 
+```
 ```
