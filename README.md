@@ -1,6 +1,3 @@
-Here’s your `README.md` for **multi-doc-chatbot**:
-
-````markdown
 # 📄 Multi-Doc Chatbot — AI-Powered Document Q&A
 
 ---
