@@ -44,8 +44,6 @@ Built by **Om Rajput** — LLM Job-Ready Mastery Program, Day 4.
 ![MultiDoc Screenshot 2](https://github.com/user-attachments/assets/0f16c447-dcfb-46b4-a7d0-9ffa25f36b4b)
 
 
-_(Upload your 2 screenshots as `screenshot1.png` and `screenshot2.png` in repo root)_
-
 ---
 
 ## ⚙️ Setup Instructions
