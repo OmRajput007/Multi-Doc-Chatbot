@@ -1,6 +1,3 @@
-Understood. Here’s your message for `README.md`:
-
-````markdown
 # 📄 Multi-Doc Chatbot — AI-Powered Document Q&A
 
 ---
