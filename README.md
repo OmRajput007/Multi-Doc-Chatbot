@@ -36,7 +36,7 @@ Built by **Om Rajput** — LLM Job-Ready Mastery Program, Day 4.
 
 📸 Screenshot one:
 
-![MultiDoc Screenshot 1]!(https://github.com/user-attachments/assets/b5aead7e-5f69-4b76-84ba-29f8ce6e9b81)
+![MultiDoc Screenshot 1](https://github.com/user-attachments/assets/b5aead7e-5f69-4b76-84ba-29f8ce6e9b81)
 
 
 📸 Screenshot two:
